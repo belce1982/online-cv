@@ -30,7 +30,7 @@ sidebar:
       - item: Fitness & Stay healthy
         link:
 
-      - item: Reading
+      - item: Improving
         link:
 
       - item: Family
@@ -76,43 +76,45 @@ experiences:
       time: October, 2015 - Present day
       company: Cotronic, S.A. (Grupo Cobra), Málaga
       details: |
-        During this period, as I became the only member of the software
-        development department, besides being responsible for both the
-        front-end and back-end, I was also in charge of the functional
-        development of the applications, that is, gathering requirements,
-        analyzing use cases, and writing unit tests. Starting to use PHP 7
-        for the backend of the new applications, making use of JSON format
-        for communications, using jQuery for the front-end and HTML5 with
-        bootstrap3 for the creation of responsive designs. During this period,
-        in addition to maintaining the aforementioned applications,
-        applications have been developed for fleet control, invoicing control,
-        payments to external suppliers, and time control of contracted personnel.
-        For the set of applications it has also been necessary to create batch
-        processes, reading and handling of email inboxes, calls to curl_exec
-        simulating web browsers for both the collection of information
-        and sending forms.
-          - PHP 7
-          - Git
-          - Test-Driven Development
-          - Functional analysis
+        During this period, I started to being in charge of the functional 
+        development of the applications, that is, gathering requirements, 
+        analyzing use cases, writing unit tests, reviewing code and 
+        merging pull requests using Git/Github. 
+        At early 2018 we started doing SCRUM with JIRA for a project with 
+        Laravel5 for a third-party customer. Ever since we have been using 
+        an agile methodology on a daily basis. We also started to use PHP 7 
+        for the backend of the new applications, making use of JSON format 
+        for API responses, using jQuery for the front-end and HTML5 with 
+        bootstrap3 for the creation of responsive designs. In addition to 
+        maintaining the legacy code, during this time the following 
+        applications were developed, that is, fleet control, invoicing 
+        control, confirming payments to external suppliers and 
+        employee working time control. For the set of applications, 
+        it has also been necessary to create batch processes, reading 
+        and handling of email inboxes, calls to curl_exec simulating 
+        web browsers for both the collection of information and sending forms.
+          - SCRUM
+          - PHP 7 / Laravel
+          - Git / Github
+          - TDD
     - role: Web Developer
       time: December, 2009 - September, 2015
       company: Cotronic, S.A. (Grupo Cobra), Málaga
       details: |
-          Acting primarily as the team's back-end developer, I was in charge
-          of the design and maintenance of the database, using MySQL Workbench,
-          and also of the creation and optimization of MySQL queries. Building
-          a solid PHP back-end, exposing the data to the front-end via RESTFul
-          API mainly via XML format. On the front-end part, we had javascript
-          making use of an open-source library for user interface design and
-          using Xajax to make POST calls to the back-end. During these years
-          we developed applications for the management of human resources,
-          control of the supply of tools and devices, control of warehouses,
-          and management of external suppliers. These applications required 
-          document management and also the creation and reading of XLS 
-          and PDF files.
-          - PHP Backend
-          - Database design
+        Acting primarily as a back-end developer, I was responsible of 
+        the design and maintenance of the database, using MySQL Workbench, 
+        and also of the creation and optimization of MySQL queries. Building 
+        a solid PHP back-end, exposing the data to the front-end via RESTFul 
+        API mainly via XML format. On the front-end part, we had javascript 
+        making use of an open-source library for user interface design and 
+        using Xajax to make POST calls to the back-end. During these years 
+        we developed applications for the management of human resources, 
+        control of the supply of tools and devices, warehouse control 
+        and management of external suppliers. These applications required 
+        document management and the creation and reading of XLS and 
+        PDF files.
+          - PHP
+          - DB design
           - Query optimization
           - MySQL
     - role: Flex-3 Developer
